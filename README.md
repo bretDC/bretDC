@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bretDC
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently expanding my knowledge of new and current languages/frameworks
 - 💞️ I’m looking to collaborate on upcomming projects
 - 📫 How to reach me bretbickham@gmail.com
